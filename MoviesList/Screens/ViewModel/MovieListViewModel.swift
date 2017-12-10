@@ -21,7 +21,6 @@ class MovieListViewModel {
     
     init(service: ServiceProtocol) {
         serviceAPI = service
-        APICall()
     }
 }
 

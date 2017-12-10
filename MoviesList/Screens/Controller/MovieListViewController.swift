@@ -39,6 +39,10 @@ class MovieListViewController: UIViewController {
             self.showAlert(message: message,title: title)
         }
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        viewModel.APICall()
+    }
 
 }
 
