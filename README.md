@@ -5,7 +5,7 @@
 The goal for this project is to build an iOS app that shows list of movies.
 
 ## Data Model
-- Movies have a name , rating , cast and plot
+- Movies have a Name,Rating,Cast and Plot
 
 ## Feature Outline
 - Persist all movies with UserDefault
