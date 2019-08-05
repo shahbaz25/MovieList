@@ -46,6 +46,7 @@ class MovieListViewController: UIViewController {
 
 }
 
+// TableView
 extension MovieListViewController: UITableViewDataSource, UITableViewDelegate {
     
     // No.of rows in tableView
