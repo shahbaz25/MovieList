@@ -13,7 +13,6 @@ import ObjectMapper
 
 class MovieListModel: NSObject, NSCoding, Mappable {
     
-    var error : String?
     var errorMessage : String?
     var response: [MovieDetails]?
     
