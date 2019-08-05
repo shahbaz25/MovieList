@@ -1,4 +1,4 @@
 language: swift
-xcode_project: MovieList.xcodeproj # path to your xcodeproj folder
-xcode_scheme: MovieList
+xcode_project: MoviesList.xcodeproj # path to your xcodeproj folder
+xcode_scheme: MoviesList
 xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
