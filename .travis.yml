@@ -2,3 +2,4 @@ language: swift
 xcode_workspace: MoviesList.xcworkspace # path to your xcodeproj folder
 xcode_scheme: MoviesList
 xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+xcode_code_signing_required: NO
